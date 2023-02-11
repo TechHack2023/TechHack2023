@@ -11,12 +11,13 @@ We have three prizes in the competition. Showcase your skill and grab the prize.
      #Total amount prize = 10,000/-
      
 # DOMAINS
-      Mobile Development
+  
+-Mobile Development
       
-      -E - Commerce
+-E - Commerce
       
-      -Digital Education
+-Digital Education
       
-      -Work from Home
+-Work from Home
       
-      -Environment and Sustainability
+-Environment and Sustainability
