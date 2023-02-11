@@ -37,7 +37,7 @@ __We have three prizes in the competition. Showcase your skill and grab the priz
 
      
      
-     ## Judging Criteria
+     ## Judging Criteria 🧑‍⚖️
 
 Teams will be judged on at least these four criteria. During judging, participants should try to describe what they did for each criterion in their project. 
 
