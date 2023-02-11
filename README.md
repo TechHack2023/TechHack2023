@@ -34,7 +34,7 @@ __We have three prizes in the competition. Showcase your skill and grab the priz
 6. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
 7. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
 8. Teams can be disqualified from the competition at the organizers' discretion. 
-9. smashing coconut before hackthon is prohibited
+
 
      
      
