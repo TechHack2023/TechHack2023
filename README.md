@@ -10,7 +10,7 @@ __We have three prizes in the competition. Showcase your skill and grab the priz
 
 ***Total amount prize = 10,000/-***
      
-# DOMAINS
+## DOMAINS
   
 - Mobile Development
       
