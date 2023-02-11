@@ -1,5 +1,5 @@
 # Tech-Hack👨‍💻
-<image src="https://user-images.githubusercontent.com/125008362/218250743-7913118f-97bd-4b81-99b2-b60ae789145d.png" width=30% height=30%> 
+![Blue   White Futuristic Technology Facebook Cover](https://user-images.githubusercontent.com/125008362/218261263-41a01bff-c5b1-4fc1-84d1-6038ac9e09f2.png)
 
 ## ABOUT EVENT 📚
 
