@@ -6,9 +6,9 @@
 __The event will be held on 28th and 29th march 2023,at Amity University Mumbai, it will be a programming event where students from different college can come and compete.__
 __We have three prizes in the competition. Showcase your skill and grab the prize.__
 
-"Discover, Create and Deploy" 
+***Discover, Create and Deploy*** 
 
-Total amount prize = 10,000/-**
+***Total amount prize = 10,000/-***
      
 # DOMAINS
   
