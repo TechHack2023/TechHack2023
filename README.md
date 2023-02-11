@@ -46,4 +46,4 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 The competition is just a part of the hackathon. To make the most out of the event, try something new, teach other people, and make new friends!
 
-Happy Hacking from the SLPVH team!
+Happy Hacking from the AIIT team!
