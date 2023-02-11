@@ -23,7 +23,7 @@ __We have three prizes in the competition. Showcase your skill and grab the priz
 - Environment and Sustainability
      
      
-## The rules of the competition
+## The rules of the competition 📜
 
 
 1. All work on a project should be done at the hackathon.
