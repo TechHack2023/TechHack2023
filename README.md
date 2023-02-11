@@ -23,6 +23,20 @@ __We have three prizes in the competition. Showcase your skill and grab the priz
 - Environment and Sustainability
      
      
+## The rules of the competition
+
+
+1. All work on a project should be done at the hackathon.
+2. Teams can use an idea they had before the event.
+3. Teams can work on ideas that have already been done. Hacks do not have to be “innovative”. If somebody wants to work on a common idea they should be allowed to do so and should be judged on the quality of their hack. These days it’s hard to find something that’s fully original and teams might not know an idea has been done before anyway.
+4. Teams can work on an idea that they have worked on before (as long as they do not re-use code).
+5. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
+6. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
+7. Teams must stop hacking once the time is up. However, teams are allowed to debug and make small fixes to their programs after time is up. e.g. If during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's okay to fix that. Making large changes or adding new features is not allowed.
+8. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, or being a terrible person.
+
+     
+     
      ## Judging Criteria
 
 Teams will be judged on at least these four criteria. During judging, participants should try to describe what they did for each criterion in their project. 
