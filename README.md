@@ -12,12 +12,12 @@ We have three prizes in the competition. Showcase your skill and grab the prize.
      
 # DOMAINS
   
--Mobile Development
+- Mobile Development
       
--E - Commerce
+- E_Commerce
       
--Digital Education
+- Digital Education
       
--Work from Home
+- Work from Home
       
--Environment and Sustainability
+- Environment and Sustainability
