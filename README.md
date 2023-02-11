@@ -1,4 +1,4 @@
-# Tech-Hack
+# Tech-Hack👨‍💻
 <image src="https://user-images.githubusercontent.com/125008362/218250743-7913118f-97bd-4b81-99b2-b60ae789145d.png" width=30% height=30%> 
 
 ## ABOUT EVENT 📚
@@ -10,7 +10,7 @@ __We have three prizes in the competition. Showcase your skill and grab the priz
 
 ***Total amount prize = 10,000/-***
      
-## DOMAINS
+## DOMAINS 🕵🏻‍♂️
   
 - Mobile Development
       
