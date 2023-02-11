@@ -14,7 +14,7 @@ We have three prizes in the competition. Showcase your skill and grab the prize.
   
 - Mobile Development
       
-- E_Commerce
+- E-Commerce
       
 - Digital Education
       
