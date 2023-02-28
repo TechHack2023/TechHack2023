@@ -3,9 +3,9 @@
 
 ## ABOUT EVENT 📚
 
-___Tech hack is a competitive programming event where you all can participate in coding challenges, solve algorithmic problems, and aim to achieve recognition for their coding skills.
+_Tech hack is a competitive programming event where you all can participate in coding challenges, solve algorithmic problems, and aim to achieve recognition for their coding skills.
 
-___The event allows participants  to practice their coding skills, improve their problem-solving abilities, and compare their performance with other coders. Achieving recognition and climbing up the leaderboard can be seen as a way to discover, create and deploy in the coding community.
+_The event allows participants  to practice their coding skills, improve their problem-solving abilities, and compare their performance with other coders. Achieving recognition and climbing up the leaderboard can be seen as a way to discover, create and deploy in the coding community.
      
 ## DOMAINS 🕵🏻‍♂️
   
