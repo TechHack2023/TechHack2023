@@ -3,12 +3,9 @@
 
 ## ABOUT EVENT 📚
 
-__The event will be held on 28th and 29th march 2023,at Amity University Mumbai, it will be a programming event where students from different college can come and compete.__
-__We have three prizes in the competition. Showcase your skill and grab the prize.__
+___Tech hack is a competitive programming event where you all can participate in coding challenges, solve algorithmic problems, and aim to achieve recognition for their coding skills.
 
-***Discover, Create and Deploy*** 
-
-***Total amount prize = 10,000/-***
+___The event allows participants  to practice their coding skills, improve their problem-solving abilities, and compare their performance with other coders. Achieving recognition and climbing up the leaderboard can be seen as a way to discover, create and deploy in the coding community.
      
 ## DOMAINS 🕵🏻‍♂️
   
