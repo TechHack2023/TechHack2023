@@ -9,15 +9,15 @@ ___The event allows participants  to practice their coding skills, improve their
      
 ## DOMAINS 🕵🏻‍♂️
   
-- Mobile Development
+- Smart Education
       
-- E-Commerce
+- Healthcare
       
-- Digital Education
+- Smart City
       
-- Work from Home
+- Sustainable Environment
       
-- Environment and Sustainability
+- Women Safety
      
      
 ## The rules of the competition 📜
